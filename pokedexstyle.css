@@ -1,0 +1,17 @@
+#main{
+    width: 800px;
+    height: 700px;
+    display: inline-block;
+    vertical-align: top;
+}
+#pokedex{
+    height: 700px;
+    width: 350px;
+    outline: 3px solid red;
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px;
+}
+#sprite{
+    width: 100px;
+}
